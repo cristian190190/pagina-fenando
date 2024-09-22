@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-image: url('fondo.jpg'); /* Agrega una imagen de fondo si lo deseas */
+    background-size: cover;
+    background-position: center;
+}
+
+section#about {
+    background-color: #ffffff;
+}
+
+section#contact {
+    background-color: #f4f4f4;
+    padding: 40px 0;
+}
+
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 20px 0;
+}
